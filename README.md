@@ -34,30 +34,16 @@ Edit the following files to update your information:
 
 ## 🚢 Deployment (Railway)
 
-This project is ready to be deployed to [Railway.app](https://railway.app).
+This project is already pushed to GitHub and ready for Railway.
 
-### Option A: Via GitHub (Recommended)
-1.  Initialize a git repository:
-    ```bash
-    git init
-    git add .
-    git commit -m "Initial commit"
-    ```
-2.  Create a repository on GitHub and push this code:
-    ```bash
-    git remote add origin https://github.com/YOUR_USERNAME/paul-adams-portfolio.git
-    git push -u origin main
-    ```
-3.  Go to Railway.app -> "New Project" -> "Deploy from GitHub repo".
-4.  Select your repo. Railway will automatically detect the Dockerfile or Next.js app and build it.
+### 1. Connect to Railway
+1.  Go to [Railway.app](https://railway.app) and sign in.
+2.  Click **"New Project"** -> **"Deploy from GitHub repo"**.
+3.  Select the `WiggumPortfolio` repository.
+4.  Railway will detect the `Dockerfile` and `next.config.mjs` (configured for standalone output) and deploy automatically.
 
-### Option B: Railway CLI
-If you have the Railway CLI installed:
-```bash
-railway login
-railway init
-railway up
-```
+### 2. Custom Domain
+Once deployed, you can add a custom domain (like `pauladams.com`) in the Railway service settings under the "Networking" tab.
 
 ## 🛠 Tech Stack
 - **Next.js 14** (App Router)
