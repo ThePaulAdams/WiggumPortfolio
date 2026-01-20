@@ -17,8 +17,7 @@ export default function Hero() {
             <span className="text-blue-600">Paul Adams</span>
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-lg">
-            Senior Software Developer & Founder. I build high-performance applications, 
-            AI-powered platforms, and scalable digital solutions for millions of users.
+            Software Engineer & Digital Creator. I build accessible, pixel-perfect, performant, and delightful web experiences.
           </p>
           <div className="flex items-center gap-4">
             <a href="#projects" className="px-6 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors flex items-center gap-2">

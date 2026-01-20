@@ -1,21 +1,15 @@
 const experiences = [
   {
-    company: "involve.me",
-    role: "Senior Software Developer",
+    company: "Company Name",
+    role: "Senior Software Engineer",
     period: "2023 - Present",
-    description: "Leading development and maintaining over 40 third-party integrations for an AI-powered platform used by millions.",
+    description: "Led development of core features...",
   },
   {
-    company: "Writinova",
-    role: "Founder",
-    period: "2022 - Present",
-    description: "Founded and scaling Writinova, a platform focused on innovative digital solutions.",
-  },
-  {
-    company: "Selar",
-    role: "Engineering Manager",
+    company: "Previous Company",
+    role: "Software Engineer",
     period: "2020 - 2023",
-    description: "Led engineering teams to build secure and scalable digital commerce solutions across Nigeria, Austria, and Canada.",
+    description: "Developed and maintained...",
   },
 ];
 

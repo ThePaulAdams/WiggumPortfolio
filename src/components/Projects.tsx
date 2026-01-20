@@ -1,21 +1,21 @@
 const projects = [
   {
-    title: "AI Assistant for Webflow",
-    description: "Integrating Google's Gemini AI with Webflow to enhance design workflows and automate repetitive tasks.",
-    tags: ["Gemini AI", "Webflow", "Node.js"],
-    link: "https://sessionize.com",
-  },
-  {
-    title: "Integration Ecosystem",
-    description: "Deep dive into monitoring and maintaining 40+ third-party integrations for involve.me's AI platform.",
-    tags: ["API", "Serverless", "Architecture"],
+    title: "Project Alpha",
+    description: "A comprehensive solution for...",
+    tags: ["Next.js", "TypeScript", "Prisma"],
     link: "#",
   },
   {
-    title: "Writinova",
-    description: "Founder of Writinova, building digital platforms that simplify ideas to acquire customers.",
-    tags: ["Startup", "Full Stack", "Product"],
-    link: "https://writinova.com",
+    title: "Project Beta",
+    description: "An innovative app that...",
+    tags: ["React", "Tailwind", "Node.js"],
+    link: "#",
+  },
+  {
+    title: "Project Gamma",
+    description: "Open source library for...",
+    tags: ["Rust", "WASM"],
+    link: "#",
   },
 ];
 
